@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="E:\Install\LSF\lsfusion-4.jar">
+      <CLASSES>
+        <root url="jar://E:/Install/LSF/lsfusion-4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://E:/Install/LSF/lsfusion-4-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
